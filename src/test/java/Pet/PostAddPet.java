@@ -4,7 +4,6 @@ import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.hamcrest.number.OrderingComparison;
 import org.testng.annotations.Test;
-
 import static org.hamcrest.Matchers.lessThan;
 import static io.restassured.RestAssured.given;
 import static org.testng.Assert.assertTrue;
