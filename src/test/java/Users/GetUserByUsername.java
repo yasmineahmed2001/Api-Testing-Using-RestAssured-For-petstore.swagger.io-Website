@@ -4,7 +4,6 @@ import io.restassured.RestAssured;
 import net.bytebuddy.build.Plugin;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.number.OrderingComparison.lessThan;
 
