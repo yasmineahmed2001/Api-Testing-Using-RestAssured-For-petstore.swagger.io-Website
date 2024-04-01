@@ -2,7 +2,6 @@
 Comprehensive testing of the PetStore API endpoints for managing a fictional online store and Endpoints consist GET, POST, PUT, DELETE for products management.
 
 ## Scope
-The scope of this automation testing will cover the following areas:
 Functional Testing: Verifying that all features and functionalities of the website work as intended. This includes testing the navigation, search functionality, user registration, login, and any other interactive elements.
 Usability Testing: Ensuring that the website is easy to use and navigate. This involves testing the user interface, content, and workflow to ensure they are intuitive and user-friendly.
 
