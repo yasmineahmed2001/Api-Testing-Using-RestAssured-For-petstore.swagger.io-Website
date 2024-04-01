@@ -4,7 +4,6 @@ import io.restassured.http.ContentType;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 import io.restassured.RestAssured;
-
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 import static org.hamcrest.Matchers.*;
