@@ -3,7 +3,6 @@ package Store;
 import io.restassured.RestAssured;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.number.OrderingComparison.lessThan;
 import static org.testng.Assert.assertTrue;
